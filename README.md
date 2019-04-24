@@ -10,6 +10,6 @@ To study with this project, you must install Gazebo and ROS environment on your 
 
 If you have installed Gazebo and ROS environment on your Linux OS, you can follow the steps below to build and run this study.
 
-$ mkdir -p /home/workspace/catkin_ws/src
+$ mkdir -p /home/workspace/catkin_ws/src /n
 $ cd /home/workspace/catkin_ws/src
 $ catkin_init_workspace
