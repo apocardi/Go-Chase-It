@@ -54,7 +54,11 @@ $ source devel/setup.bash
 $ rosrun rqt_image_view rqt_image_view 
 ```
 
-In the last one, execute ``ball_chaser.launch```
+In the last one, execute ```ball_chaser.launch```
+```bash
 $ cd /home/src/catkin_ws/
 $ source devel/setup.bash
 $ roslaunch ball_chaser ball_chaser.launch
+```
+
+Now place the white ball at different positions in front of the robot and see if the robot is capable of chasing the ball!
