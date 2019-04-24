@@ -26,8 +26,8 @@ Clone or download the repository
 
 ```bash
 $ git clone https://github.com/apocardi/Go-Chase-It.git
-$ cp -R Go-Chase-It/ball_chaser
-$ cp -R Go-Chase-It/my_robot
+$ cp -R Go-Chase-It/ball_chaser /home/src/catkin_ws/src
+$ cp -R Go-Chase-It/my_robot /home/src/catkin_ws/src
 $ rm -rf Go-Chase-It
 ```
 
