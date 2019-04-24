@@ -2,7 +2,7 @@
 # Go-Chase-It
 
 ## Introduction
-This project includes designing a robot, housing it inside the world you created, and programming it to chase white-colored balls:
+This project includes designing a robot, housing it inside the world you created, and programming it to chase white-colored balls.
 
 ## Getting Started
 
@@ -21,5 +21,10 @@ Create and initialize ```catkin_ws```
 $ mkdir -p /home/src/catkin_ws/src 
 $ cd /home/src/catkin_ws/src
 $ catkin_init_workspace
+```
+Clone or download the repository
+
+```bash
+$ git clone https://github.com/apocardi/Go-Chase-It.git
 ```
 
