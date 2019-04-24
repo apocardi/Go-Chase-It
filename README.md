@@ -37,9 +37,7 @@ Next, build the project
 $ cd ..
 $ catkin_make
 ```
-Open three terminal
-
-In the first teminal, launch ```world.launch```file
+Open three terminals. In the first teminal, launch ```world.launch```file
 
 ```bash
 $ cd /home/src/catkin_ws/
